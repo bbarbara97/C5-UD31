@@ -1,0 +1,28 @@
+#container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: wheat;
+    padding: 2%;
+}
+
+#op {
+    margin: 3%;
+    text-align: end;
+    background-color: white;
+    border: 2px black solid;
+}
+
+#botones {
+    padding: 2%;
+}
+
+button {
+    width: 14%;
+    margin: 1%;
+}
+
+#el {
+    width: 40%;
+    color: red;
+}

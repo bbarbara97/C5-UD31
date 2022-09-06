@@ -1,0 +1,28 @@
+h1 {
+    width: 18%;
+    margin-left: 55%;
+}
+
+#imagenes {
+    float: left;
+    width: 35%;
+    background-color: #bcfafc;
+}
+
+#imagenes img {
+    width: 47%;
+    margin: 1%;
+}
+
+#imgPrincipal {
+    width: 65%;
+    margin-left: 35%;
+}
+
+#imgPrincipal img {
+    width: 100%;
+}
+
+#descripcion {
+    text-align: center;
+}
